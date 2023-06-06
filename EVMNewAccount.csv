@@ -1,0 +1,4 @@
+CompanyName,EVMCustomerNumber,CurrencyID,Vertical,CustomerAdminName,CustomerAdminPhoneNumber,CustomerAdminEmailAddress,CustomerAdminAddress1,CustomerAdminCity,CustomerAdminCountry,CustomerAdminRegion,CustomerAdminPostalCode,Username,Password
+-Test Mourina2,abcdefghij1234567890,AUD,69,Test Mourina,42423,testuser1@test.com,Australia,Sydney,AU,NSW,2000,mourinatest,password1
+-Test Mourina3,abcdefghij1234567891,NZD,69,Test Mourina 2,289984,testuser2@test.com,Australia,Sydney,AU,NSW,2000,mourinatest2,password2
+-Test Mourina3,abcdefghij1234567892,NZD,69,Test Mourina 3,213879172,testuser3@test.com,Australia,Sydney,AU,NSW,2000,mourinatest3,password3

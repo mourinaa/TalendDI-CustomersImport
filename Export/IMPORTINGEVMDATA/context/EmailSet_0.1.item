@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_syebUMReEeyqC74jHNfd7g" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_syebUcReEeyqC74jHNfd7g" comment="" name="Email_host" prompt="Email_host?" promptNeeded="false" type="id_String" value="&quot;email-smtp.us-east-1.amazonaws.com&quot;"/>
+    <contextParameter xmi:id="_syebUsReEeyqC74jHNfd7g" comment="" name="Email_port" prompt="Email_port?" promptNeeded="false" type="id_String" value="&quot;465&quot;"/>
+    <contextParameter xmi:id="_syebU8ReEeyqC74jHNfd7g" comment="" name="Email_username" prompt="Email_username?" promptNeeded="false" type="id_String" value="&quot;AKIAXUJYROHCVDPOL6UZ&quot;"/>
+    <contextParameter xmi:id="_syebVMReEeyqC74jHNfd7g" comment="" name="Email_password" prompt="Email_password?" promptNeeded="false" type="id_String" value="&quot;BLPPVUMM29ezEqDrcN0rnMaCbDcXO3yQiCLHQdk3KFCF&quot;"/>
+    <contextParameter xmi:id="_syebVcReEeyqC74jHNfd7g" comment="" name="Email_from" prompt="Email_from?" promptNeeded="false" type="id_String" value="&quot;support@rdbk.com.au&quot;"/>
+    <contextParameter xmi:id="_syebVsReEeyqC74jHNfd7g" comment="" name="Email_to" prompt="Email_to?" promptNeeded="false" type="id_String" value="&quot;tech@rdbk.com.au ; mourina.anggraini@sitesjet.com&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_syebV8ReEeyqC74jHNfd7g" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_syebWMReEeyqC74jHNfd7g" comment="" name="Email_host" prompt="Email_host?" promptNeeded="false" type="id_String" value="&quot;email-smtp.us-east-1.amazonaws.com&quot;"/>
+    <contextParameter xmi:id="_syebWcReEeyqC74jHNfd7g" comment="" name="Email_port" prompt="Email_port?" promptNeeded="false" type="id_String" value="&quot;465&quot;"/>
+    <contextParameter xmi:id="_syebWsReEeyqC74jHNfd7g" comment="" name="Email_username" prompt="Email_username?" promptNeeded="false" type="id_String" value="&quot;AKIAXUJYROHCVDPOL6UZ&quot;"/>
+    <contextParameter xmi:id="_syebW8ReEeyqC74jHNfd7g" comment="" name="Email_password" prompt="Email_password?" promptNeeded="false" type="id_String" value="&quot;BLPPVUMM29ezEqDrcN0rnMaCbDcXO3yQiCLHQdk3KFCF&quot;"/>
+    <contextParameter xmi:id="_syebXMReEeyqC74jHNfd7g" comment="" name="Email_from" prompt="Email_from?" promptNeeded="false" type="id_String" value="&quot;support@rdbk.com.au&quot;"/>
+    <contextParameter xmi:id="_syebXcReEeyqC74jHNfd7g" comment="" name="Email_to" prompt="Email_to?" promptNeeded="false" type="id_String" value="&quot;tech@rdbk.com.au ; mourina.anggraini@sitesjet.com&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>

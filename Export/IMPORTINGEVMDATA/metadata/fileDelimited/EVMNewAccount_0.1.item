@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_pVmD8L-sEeyze4ElOhtKQQ" name="EVMNewAccount" dataPackage="_pVmD8b-sEeyze4ElOhtKQQ" Server="Localhost 127.0.0.1" FilePath="C:/Talend/TalendImportEVMData/EVMNewAccount.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_pVmD8b-sEeyze4ElOhtKQQ" name="default" dataManager="_pVmD8L-sEeyze4ElOhtKQQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_pVmD8r-sEeyze4ElOhtKQQ" id="_fauWQL-sEeyze4ElOhtKQQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF8MEfEeyyZb72GueAOg" label="CompanyName" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF8cEfEeyyZb72GueAOg" label="EVMCustomerNumber" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF8sEfEeyyZb72GueAOg" label="CurrencyID" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF88EfEeyyZb72GueAOg" label="Vertical" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF9MEfEeyyZb72GueAOg" label="CustomerAdminName" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF9cEfEeyyZb72GueAOg" label="CustomerAdminPhoneNumber" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF9sEfEeyyZb72GueAOg" label="CustomerAdminEmailAddress" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF98EfEeyyZb72GueAOg" label="CustomerAdminAddress1" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF-MEfEeyyZb72GueAOg" label="CustomerAdminCity" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF-cEfEeyyZb72GueAOg" label="CustomerAdminCountry" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF-sEfEeyyZb72GueAOg" label="CustomerAdminRegion" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF-8EfEeyyZb72GueAOg" label="CustomerAdminPostalCode" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF_MEfEeyyZb72GueAOg" label="Username" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_eokF_cEfEeyyZb72GueAOg" label="Password" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

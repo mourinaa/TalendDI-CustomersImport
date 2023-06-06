@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Y0t7kLU4EeyRK_hRc0CHLA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_Y0t7kbU4EeyRK_hRc0CHLA" comment="" name="DB_Host" prompt="DB_Host?" promptNeeded="false" type="id_String" value="&quot;VMDEV&quot;"/>
+    <contextParameter xmi:id="_Y0t7krU4EeyRK_hRc0CHLA" comment="" name="DB_Port" prompt="DB_Port?" promptNeeded="false" type="id_String" value="&quot;1433&quot;"/>
+    <contextParameter xmi:id="_Y0t7k7U4EeyRK_hRc0CHLA" comment="" name="DB_Name" prompt="DB_Name?" promptNeeded="false" type="id_String" value="&quot;CONFDB&quot;"/>
+    <contextParameter xmi:id="_Y0t7lLU4EeyRK_hRc0CHLA" comment="" name="DB_Username" prompt="DB_Username?" promptNeeded="false" type="id_String" value="&quot;sa&quot;"/>
+    <contextParameter xmi:id="_Y0t7lbU4EeyRK_hRc0CHLA" comment="" name="DB_Password" prompt="DB_Password?" promptNeeded="false" type="id_String" value="&quot;!Mookie7&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Y0t7lrU4EeyRK_hRc0CHLA" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_Y0t7l7U4EeyRK_hRc0CHLA" comment="" name="DB_Host" prompt="DB_Host?" promptNeeded="false" type="id_String" value="&quot;10.10.10.2&quot;"/>
+    <contextParameter xmi:id="_Y0t7mLU4EeyRK_hRc0CHLA" comment="" name="DB_Port" prompt="DB_Port?" promptNeeded="false" type="id_String" value="&quot;1433&quot;"/>
+    <contextParameter xmi:id="_Y0t7mbU4EeyRK_hRc0CHLA" comment="" name="DB_Name" prompt="DB_Name?" promptNeeded="false" type="id_String" value="&quot;CONFDB&quot;"/>
+    <contextParameter xmi:id="_Y0t7mrU4EeyRK_hRc0CHLA" comment="" name="DB_Username" prompt="DB_Username?" promptNeeded="false" type="id_String" value="&quot;sa&quot;"/>
+    <contextParameter xmi:id="_Y0t7m7U4EeyRK_hRc0CHLA" comment="" name="DB_Password" prompt="DB_Password?" promptNeeded="false" type="id_String" value="&quot;!Mookie7&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>
